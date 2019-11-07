@@ -1,0 +1,62 @@
+/* .bg-image {
+    background-image: url("../images/MacBook\ Pro.jpeg");
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+} */
+
+
+
+
+.h3, h3 {
+    font-size: 2.75rem;
+}
+
+.font-weight-normal {
+    font-weight: 900!important;
+}
+
+.svg {
+    fill: currentColor;
+    
+  }
+
+.site-header a {
+    color: #007bff;
+    transition: ease-in-out color .15s;
+}
+
+.bg-light {
+    background-color: #E8EEF1!important;
+}
+
+
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+
+.navbar.center .navbar-inner .nav {
+    display:inline-block;
+    float: none;
+}
+
+.navbar-dark .navbar-brand {
+    /* display: flex; */
+    color: #fff;
+    /* justify-content: center; */
+    position: relative;
+    left: 47.95%;
+}
+
+.h1 {
+    position: relative;
+    left: 50%;
+}
+
+.rotate:hover
+{
+        -webkit-transform: rotateZ(-30deg);
+        -ms-transform: rotateZ(-30deg);
+        transform: rotateZ(-30deg);
+}
